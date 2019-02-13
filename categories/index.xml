@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title></title>
     <link>https://juice30.github.io/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Feb 2019 11:09:04 +0800</lastBuildDate>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://juice30.github.io/categories/</link>
+      <title>Hello Hugo</title>
+      <link>https://juice30.github.io/posts/hello-hugo/</link>
       <pubDate>Tue, 05 Feb 2019 11:09:04 +0800</pubDate>
       
-      <guid>https://juice30.github.io/categories/</guid>
-      <description></description>
+      <guid>https://juice30.github.io/posts/hello-hugo/</guid>
+      <description> Hello Hugo </description>
     </item>
     
   </channel>
